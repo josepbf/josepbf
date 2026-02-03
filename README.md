@@ -15,7 +15,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/Langchain-%231C3C3C.svg?logo=langchain&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-2F3134?logo=bitcoin&logoColor=white)
 
 > AI Engineer and Data Scientist with a background in Telecommunications Engineering (MSc). I build data-driven solutions that merge AI, innovation, and software engineering. Passionate about driving cutting-edge technology into real-world challenges.
 
@@ -62,5 +61,6 @@ Here are some ideas to get you started:
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/josepbf)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-2F3134?logo=bitcoin&logoColor=white)
 
 -->
