@@ -23,6 +23,7 @@
 - 🧬 **[Genomic Counseling AI](https://github.com/josepbf/Genomic_Counseling_AI)** - AI that turns raw DNA into personalized insights using GenAI.
 - 🔋 **[EL detection](https://github.com/josepbf/EL_detection_code)** - Deep learning pipeline for automated defect detection in solar panels using electroluminescence (EL) imaging.
 - 📡 **[Pi-Link RF](https://github.com/josepbf/MTP_Project)** - Wireless communication system for Raspberry Pi that utilizes nRF24L01 transceivers and a custom token-passing network protocol to automate the compressed transfer of files between multiple nodes.
+- 🔬 **[MalarIA](https://github.com/josepbf/streamlit-malaria-webpage)** - Streamlit-based web application utilizing a trained PyTorch model to detect malaria parasites and leukocytes in microscopic blood smear samples.
 
 ## Scientific papers highlight
 
