@@ -23,6 +23,7 @@
 - 🧬 **[Genomic Counseling AI](https://github.com/josepbf/Genomic_Counseling_AI)** - AI that turns raw DNA into personalized insights using GenAI.
 - 🔋 **[EL detection](https://github.com/josepbf/EL_detection_code)** - Deep learning pipeline for automated defect detection in solar panels using electroluminescence (EL) imaging.
 - 📡 **[Pi-Link RF](https://github.com/josepbf/MTP_Project)** - Wireless communication system for Raspberry Pi that utilizes nRF24L01 transceivers and a custom token-passing network protocol to automate the compressed transfer of files between multiple nodes.
+- 💰 **[Solidity Betting Smart Contract](https://github.com/josepbf/solidity-smart-contract-betting)** - Solidity contract enabling secure, time-bounded betting between two participants with admin-managed resolution and built-in safeguards against malicious behavior.
 - 🔬 **[MalarIA](https://github.com/josepbf/streamlit-malaria-webpage)** - Streamlit-based web application utilizing a trained PyTorch model to detect malaria parasites and leukocytes in microscopic blood smear samples.
 - 👾 **[VHDL Tic-Tac-Toe](https://github.com/josepbf/vhdl-tictactoe)** - Modular VHDL implementation incorporating a synchronous VGA driver, keypad input decoding, and a state-machine-driven game engine. Includes custom memory-mapped video logic and signal synchronization.
 
